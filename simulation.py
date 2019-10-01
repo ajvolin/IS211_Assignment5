@@ -6,14 +6,10 @@
 __author__ = 'Adam Volin'
 __email__ = 'Adam.Volin56@spsmail.cuny.edu'
 
-# import sys
 import argparse
-# import datetime
 import urllib.request as request
 import urllib.error
 import csv
-# import re
-# import operator
 
 class Queue:
     """An abstract data type for queues."""
